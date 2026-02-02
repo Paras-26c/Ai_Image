@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python
+pillow
+easyocr
+ultralytics
+pytesseract
+numpy==1.26.4
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
